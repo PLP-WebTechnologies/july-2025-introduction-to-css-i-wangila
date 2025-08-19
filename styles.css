@@ -1,0 +1,11 @@
+/* Image demo styling */
+.demo-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;     /* space outside image */
+  padding: 10px;         /* space inside border */
+  border: 3px solid #ff9800;
+  border-radius: 6px;
+  background-color: #fff3e0;
+}
